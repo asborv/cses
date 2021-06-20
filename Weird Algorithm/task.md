@@ -1,7 +1,9 @@
 # Weids Algorithm
 
 Consider an algorithm that takes as input a positive integer $n$. If $n$ is even, the algorithm divides it by two, and if $n$ is odd, the algorithm multiplies it by three and adds one. The algorithm repeats this, until $n$ is one. For example, the sequence for $n=3$ is as follows:
+
 $3 \to 10 \to 5 \to 16 \to 8 \to 4 \to 2 \to 1$
+
 Your task is to simulate the execution of the algorithm for a given value of $n$.
 
 ## Input
@@ -14,7 +16,7 @@ Print a line that contains all values of $n$ during the algorithm.
 
 ## Constraints
 
-* $1<=n<=10^6$
+* $1 \le n \le 10^6$
 
 ## Example
 
