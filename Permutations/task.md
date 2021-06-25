@@ -1,6 +1,6 @@
 # [Permutations](C:\Fritid\Dokumenter\Programmering\CSES)
 
-A permutation of integers $a,2,...,n$ is called _beautiful_ if there are no adjacent elements whose difference is 1.
+A permutation of integers $1,2,...,n$ is called _beautiful_ if there are no adjacent elements whose difference is 1.
 
 Given $n$, construct a beautiful permutation if such a permutations exists.
 
